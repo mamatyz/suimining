@@ -1,0 +1,2 @@
+# suimining
+sui miner
